@@ -17,7 +17,7 @@ h1 {
     grid-template-columns: repeat(3, auto);
     width: 310px;
     margin: 10px auto;
-    background-color:rgb(30, 111, 136);
+    background-color:grey;
     color:rgb(244, 240, 122);
 
 }
